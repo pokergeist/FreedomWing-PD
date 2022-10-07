@@ -14,7 +14,7 @@ Well 2 ideas really. The first was to use Adafruit's USB-C PD 12V cable (#[5450]
 
 The second idea is to use a little USB-C PD module and tack it onto the FreedomWing board. It looks like this: 
 
-![12VPD](C:\Users\john\Documents\GitHub\FreedomWing-PD\img\USB-C-PD-12.png)
+![12VPD](img/USB-C-PD-12.png)
 
 and comes from [Amazon](https://smile.amazon.com/gp/product/B08LDJBN8P). **You have to solder the pads shown to get the 12V output**.
 
