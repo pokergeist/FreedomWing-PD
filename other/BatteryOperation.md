@@ -10,7 +10,7 @@ The following considerations **must be noted**:
 * The pads for the USB and BAT cut/solder jumper **must be not be connected**. There can be no 7.4V backfeed into the USB cable, 3.3V voltage regulator, Li-ion charger.
 * The +7.4V lead can be connected to the node connecting the D1 or D2 cathode, Pololu pin1 (Vmax), or either of the lower BAT or USB pads ... i.e., what's in purple.
 
-![Vmax node](C:\Users\john\Documents\GitHub\FreedomWing-PD\img\FW-Vmax.png)
+![Vmax node](../img/FW-Vmax.png)
 
 
 
