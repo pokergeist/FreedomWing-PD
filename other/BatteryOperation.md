@@ -8,7 +8,7 @@ The following considerations **must be noted**:
 
 * the cells **cannot be charged** using the Feather's on-board charger as is. An adapter board could be made to allow the cells to be plugged in and placed in series with a 7.4V connection to the FW board. Then later disconnected and plugged into the Feather's battery connector.
 * The pads for the USB and BAT cut/solder jumper **must be not be connected**. There can be no 7.4V backfeed into the USB cable, 3.3V voltage regulator, Li-ion charger.
-* The +7.4V lead can be connected to the node connecting the D1 or D2 cathode, Pololu pin1 (Vmax), or either of the lower BAT or USB pads ... i.e., what's in purple.
+* The +7.4V lead can be connected to the node connecting the D1 or D2 cathode, Pololu pin1 (Vmax), or either of the lower BAT or USB pads ... i.e., what's in purple. The negative lead goes to GND.
 
 ![Vmax node](../img/FW-Vmax.png)
 
