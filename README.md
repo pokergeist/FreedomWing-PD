@@ -24,6 +24,12 @@ It has a few advantages:
 * You don't need a decently regulated 12VDC adapter with enough guts to power the FreedomWing.
 * You can just use a good USB-C PD phone charger and a decent USB-C cable. There won't be any shortage of these before long.
 
+**Option 3**
+
+Use these IP2721-based [modules](https://www.amazon.com/MELIFE-Type-C-Voltage-Trigger-Module/dp/B0953G14Q2). Cheaper and they come fixed at 12V so nothing to forget or mess up.
+
+![IP2721](./img/IP2721.png)
+
 ## Status
 
 This mod has just been announced so we'll see where we go from here.
