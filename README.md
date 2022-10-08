@@ -32,4 +32,4 @@ This mod has just been announced so we'll see where we go from here.
 
 I delved into the SMD boost converter version. My notes are [here](other/FreedomWing-SMD_Notes.md).
 
-[Here](other/BatteryOperation.md) I consider the option of connecting (2) LiPo cells to the original Pololu board to remediate the deficiencies of USB 2.0 ports. Who know, there could be FreedomWing-BAT design in the works someday.
+[Here](other/BatteryOperation.md) I consider the option of connecting (2) LiPo cells to the original Pololu board to remediate the deficiencies of USB 2.0 ports. Who knows, there could be FreedomWing-BAT design in the works someday.
