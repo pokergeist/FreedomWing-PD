@@ -26,7 +26,7 @@ It has a few advantages:
 
 **Option 3**
 
-Use these IP2721-based [modules](https://www.amazon.com/MELIFE-Type-C-Voltage-Trigger-Module/dp/B0953G14Q2). Cheaper and they come fixed at 12V so nothing to forget or mess up. The pinout and outline is the same so they;re interchangeable with option 2.
+Use these IP2721-based [modules](https://www.amazon.com/MELIFE-Type-C-Voltage-Trigger-Module/dp/B0953G14Q2). Cheaper and they come fixed at 12V so nothing to forget or mess up. The pinout and outline is the same so they're interchangeable with option 2.
 
 ![IP2721](./img/IP2721.png)
 
